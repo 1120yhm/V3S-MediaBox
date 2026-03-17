@@ -280,19 +280,11 @@ export ARCH=arm
 export CROSS_COMPILE=arm-linux-gnueabihf-
 ```
 
-## 版本历史
-
-- **V1.0** (2026-01-31)
-  - 初始版本
-  - 实现相机、视频、音乐、相册功能
-  - SD 卡启动支持
-  - 网络自动配置
-  - 开机自动启动
 
 ## 作者
 
-- 开发: AI Assistant & yhm
-- 日期: 2026-01-31
+- 开发: yhm
+- 日期: 2025-03-14
 
 ## 许可证
 
